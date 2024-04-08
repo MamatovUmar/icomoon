@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?eh1ilj');
-  src:  url('fonts/icomoon.eot?eh1ilj#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?eh1ilj') format('truetype'),
-    url('fonts/icomoon.woff?eh1ilj') format('woff'),
-    url('fonts/icomoon.svg?eh1ilj#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?9q1uhk');
+  src:  url('fonts/icomoon.eot?9q1uhk#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9q1uhk') format('truetype'),
+    url('fonts/icomoon.woff?9q1uhk') format('woff'),
+    url('fonts/icomoon.svg?9q1uhk#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,12 +25,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-two-one-two:before {
+  content: "\e900";
+}
 .icon-more-vertical:before {
-  content: "\e94a";
+  content: "\e94d";
   color: #475569;
 }
 .icon-arrow_drop_down_24px:before {
-  content: "\e92e";
+  content: "\e94c";
 }
 .icon-More-Square:before {
   content: "\e930";
@@ -111,34 +114,34 @@
   content: "\e918";
 }
 .icon-User:before {
-  content: "\e900";
-}
-.icon-User1:before {
   content: "\e901";
 }
-.icon-Activity:before {
+.icon-User1:before {
   content: "\e902";
 }
-.icon-Add-User:before {
+.icon-Activity:before {
   content: "\e903";
 }
-.icon-Arrow---Down-2:before {
+.icon-Add-User:before {
   content: "\e904";
 }
-.icon-Arrow---Down-3:before {
+.icon-Arrow---Down-2:before {
   content: "\e905";
 }
-.icon-Arrow---Down-Circle:before {
+.icon-Arrow---Down-3:before {
   content: "\e906";
 }
-.icon-Arrow---Down-Square:before {
+.icon-Arrow---Down-Circle:before {
   content: "\e907";
 }
-.icon-Arrow---Down:before {
+.icon-Arrow---Down-Square:before {
   content: "\e908";
 }
-.icon-Arrow---Left-2:before {
+.icon-Arrow---Down:before {
   content: "\e909";
+}
+.icon-Arrow---Left-2:before {
+  content: "\e90f";
 }
 .icon-Arrow---Left-3:before {
   content: "\e90a";
@@ -156,7 +159,7 @@
   content: "\e90e";
 }
 .icon-Arrow---Right-3:before {
-  content: "\e90f";
+  content: "\e92e";
 }
 .icon-Arrow---Right-Circle:before {
   content: "\e910";
